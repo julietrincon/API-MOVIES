@@ -1,0 +1,74 @@
+.form-container {
+    display:flex;
+    flex-direction: row;
+    align-items: flex-start;
+    margin-top: 1.0rem;
+    margin-left: 1.0rem;
+}
+
+.h1{
+    margin-top: 1.0rem;
+    margin-left: 1.0rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 
+    3px 3px 1px rgb(106, 138, 100),
+    5px 5px 2px yellow,
+    8px 8px 3px rgb(135, 139, 122);
+    ;
+
+
+}
+
+.h2{
+    margin-top: 1.0rem;
+    margin-left: 1.0rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.form-container button {
+    margin-top: 3px;
+    margin-left: 6px;
+    box-shadow: 0 0 10px 5px rgb(131, 214, 131);
+    color: rgb(39, 38, 41);    
+    background-color: transparent;
+    border-color: black;
+    text-align: center;
+    font-family: italic;
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    cursor: pointer;
+}
+
+.btnFav{
+    margin-top: 3px;
+    margin-left: 6px;
+    box-shadow: 0 0 5px 5px rgb(131, 214, 131);
+    color: rgb(39, 38, 41);    
+    background-color: transparent;
+    border-color: rgb(59, 58, 58);
+    text-align: center;
+    font-family: italic;
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    cursor: pointer;
+}
+
+.addFav{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 60%;
+    margin-left: 0%;
+}
+
+.link{
+    text-decoration: none;
+    color: black
+}
+
+.label {
+    padding-right: 10px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-weight: bolder;
+}

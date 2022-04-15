@@ -1,0 +1,34 @@
+.title{
+  text-align: center;
+  text-shadow: 
+  3px 3px 1px rgb(106, 138, 100),
+  5px 5px 2px yellow,
+  8px 8px 3px rgb(135, 139, 122);
+  ;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.poster{
+  padding: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.detTittle{
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.movie-detail{
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  margin-bottom: 30px;
+  border: 3px solid rgb(206, 219, 172);
+  padding: 5px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
